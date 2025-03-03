@@ -124,9 +124,4 @@ Welcome to the **Water Quality Monitoring System** project! This system is desig
 3. **Data Storage:** Collected data is securely stored in **MongoDB Cloud** for analysis and reporting. 💾
 4. **Live Dashboard:** The **React frontend** fetches and displays real-time data, showing water quality metrics and **microplastic contamination** results on the dashboard. 📲
 
----
-
-🙏 Thanks to Contributors 🙏
-
-  [Sumit Patidar](https://github.com/sumitpatidar9)
 
