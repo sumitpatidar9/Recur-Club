@@ -1,0 +1,74 @@
+/* src/Components/Forms/Form1.css */
+.form-container {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  width: 400px;
+  margin: auto;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-field {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.form-field label {
+  width: 50%;
+}
+
+.form-field input {
+  width: 30%;
+  padding: 5px;
+}
+
+.unit {
+  margin-left: 10px;
+  font-size: 0.9em;
+  color: #555;
+}
+
+/* Center the button container */
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px; /* Add space above the button */
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #212ea0;
+  color: white;
+  font-size: 16px;
+  border-radius: 30px;
+  width: 200px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #40a9ff;
+}
+
+.form-container h2{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  color: #212ea0;
+}
+/* src/Components/Forms/Form1.css */
+.submission-message {
+  color: #202ae0; /* Green color for success message */
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 20px;
+}

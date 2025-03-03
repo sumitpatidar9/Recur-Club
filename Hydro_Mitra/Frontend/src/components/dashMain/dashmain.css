@@ -1,0 +1,36 @@
+#main {
+    margin-top: 60px;
+    /*-------------------------------------------------------
+     manually
+    margin-left300px 
+    @media (max-width: 620px) {
+    #main {
+        margin-left: 0;
+    }
+}
+    -------------------------------------------------------*/
+    margin-left: 300px;
+
+
+    padding: 20px 30px;
+    transition: all 0.3s;
+}
+
+@media (max-width: 1199px) {
+    #main {
+        padding: 20px;
+    }
+}
+
+
+@media (max-width: 1080px) {
+    #main {
+        margin-left: 0;
+    }
+}
+
+/* @media (max-width: 620px) {
+    #main {
+        margin-left: 0;
+    }
+} */

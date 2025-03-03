@@ -1,0 +1,67 @@
+/* 
+.tcard {
+  display: flex;
+  flex-direction: column; 
+  justify-content: space-between;
+  border: 1px solid #d9d9d9;
+  border-radius: 8px;
+  padding: 40px 16px 30px 16px; 
+  width: 40%;
+  margin: 10px;
+  height: 280px; 
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  text-align: center;
+  background-color: #ffffff;
+  font-family: "Outfit", sans-serif;
+}
+
+
+
+.tcard:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  transform: translateY(-5px);
+}
+
+.tcard-heading {
+  margin-bottom: 10px;
+  font-size: 25px;
+  color: #000F38; 
+}
+
+.tcard p {
+  margin-bottom: 14px;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 27px;
+}
+
+.tbutton-container {
+  display: flex;
+  justify-content: center;
+}
+
+
+.tcard-button {
+  background: #212ea0; 
+  color: #fff; 
+  padding: 14px 25px;
+  margin-top: 15px;
+  width: 150px;
+  font-size: 16px; 
+  border-radius: 30px; 
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none; 
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+
+.tcard-button:hover {
+  background-color: #3949ab; 
+  transform: scale(1.05);
+} */
