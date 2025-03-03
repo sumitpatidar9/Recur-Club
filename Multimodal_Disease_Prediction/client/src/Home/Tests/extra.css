@@ -1,0 +1,47 @@
+.main-container-tumor-tumor {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../images/Banner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-container-tumor-pneumonia {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../images/pneumonia.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-container-tumor-alzheimer {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../images/alzheimer_s.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-container-tumor-covid {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../images/covid.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-container-tumor-tumorSegmentation {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../images/tumorSegments.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-container-tumor-heartDisease {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../images/heart.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

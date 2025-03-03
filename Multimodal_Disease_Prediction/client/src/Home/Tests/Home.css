@@ -1,0 +1,214 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+
+.main-container1 {
+  width: 100%;
+  height: 60vh;
+}
+
+.main-container1-heading1 {
+  width: 50%;
+  height: 20vh;
+  font-family: "Playfair Display", serif;
+  color: black;
+  position: relative;
+  left: 5%;
+  top: 30%;
+  font-size: 50px;
+}
+
+.main-container1-heading2 {
+  width: 50%;
+  height: 20vh;
+  font-family: "Playfair Display", serif;
+  color: #0068be;
+  position: relative;
+  left: 5%;
+  top: 30%;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.main-container2 {
+  width: 100%;
+  height: 90vh;
+  background-image: url(./images/Banner.png);
+}
+
+.main-container2-overlay {
+  width: 100%;
+  height: 90vh;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.space-after-2 {
+  width: 100%;
+  height: 20vh;
+}
+
+.main-container3 {
+  display: flex;
+  width: 100%;
+  height: 110vh;
+}
+
+.main-container3-left {
+  width: 50%;
+  height: 100vh;
+}
+
+.main-container3-left-image {
+  position: relative;
+  width: 65%;
+  height: 90vh;
+  left: 20%;
+  top: 10%;
+  border-radius: 10px;
+}
+
+.main-container3-right {
+  width: 50%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-container3-right-heading {
+  position: relative;
+  font-size: 40px;
+  top: 10%;
+  font-family: "Playfair Display", serif;
+  width: 70%;
+  color: black;
+}
+
+.main-container3-right-text {
+  font-size: 17px;
+  position: relative;
+  width: 70%;
+  top: 15%;
+  text-align: justify;
+}
+
+.main-container4 {
+  width: 100%;
+  height: 110vh;
+  display: flex;
+  flex-direction: row;
+}
+
+.main-container4-left {
+  width: 50%;
+  height: 110vh;
+}
+
+.main-container4-left-image {
+  position: relative;
+  width: 65%;
+  height: 90vh;
+  left: 8%;
+  top: 10%;
+  border-radius: 10px;
+}
+
+.main-container4-right {
+  width: 50%;
+  height: 120vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-container4-right-heading {
+  position: relative;
+  font-size: 40px;
+  top: 10%;
+  font-family: "Playfair Display", serif;
+  width: 70%;
+  color: black;
+  left: 20%;
+}
+
+.main-container4-right-text {
+  font-size: 17px;
+  position: relative;
+  width: 70%;
+  top: 15%;
+  left: 20%;
+  text-align: justify;
+}
+
+.space-after-4 {
+  width: 100%;
+  height: 10vh;
+}
+
+.main-container5 {
+  width: 100%;
+  height: 30vh;
+}
+
+.main-container5-text {
+  position: relative;
+  left: 20%;
+  top: 5%;
+  width: 60%;
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-size: 35px;
+  color: black;
+}
+
+.main-container6 {
+  width: 100%;
+  height: 30vh;
+}
+
+.main-container6-text {
+  position: relative;
+  top: 30%;
+  left: 8%;
+  width: 50%;
+  color: black;
+}
+
+.main-container6-text-p1 {
+  position: relative;
+  bottom: 0%;
+  font-size: 20px;
+}
+
+.main-container6-text-p2 {
+  position: relative;
+  top: 0px;
+  font-size: 35px;
+  font-family: "Playfair Display", serif;
+}
+
+.main-container7 {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  height: 130vh;
+  width: 80%;
+  align-items: center;
+  left: 15%;
+  flex-flow: row wrap;
+  gap: 3vw;
+}
+
+.card-container1 {
+  flex: 0 1 calc(25% - 10px);
+}
+
+.card-container2 {
+  flex: 0 1 calc(25% - 10px);
+}
+
+.card-container3 {
+  flex: 0 1 calc(25% - 10px);
+}
+
+.main-container8 {
+  background-color: #022d60;
+  height: 80vh;
+}
+

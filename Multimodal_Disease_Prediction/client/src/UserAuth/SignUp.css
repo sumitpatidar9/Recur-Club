@@ -1,0 +1,28 @@
+
+
+.outer{
+    width: 100%;
+    height: 125vh;
+}
+
+
+
+.inner{
+    width: 80%;
+    height: 100vh;
+    margin: 0% 10% 0% 10% ;
+}
+
+.inner-card{
+    left: 10%;
+    width: 80%;
+    height: 120vh;
+}
+
+
+
+/*For Signin*/
+.space-maker{
+    width: 100%;
+    height: 35vh;
+}
